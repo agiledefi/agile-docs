@@ -1,14 +1,31 @@
+---
+description: >-
+  Agile Finance Documentation provides developers the detailed Agile Finance
+  Protocol logic, Agile.js library descriptions and security details.
+---
+
 # Agile Finance Documentation
 
-{% page-ref page="getting-started/" %}
+{% content-ref url="getting-started/" %}
+[getting-started](getting-started/)
+{% endcontent-ref %}
 
-{% page-ref page="atokens/" %}
+{% content-ref url="atokens/" %}
+[atokens](atokens/)
+{% endcontent-ref %}
 
-{% page-ref page="comptroller/" %}
+{% content-ref url="comptroller/" %}
+[comptroller](comptroller/)
+{% endcontent-ref %}
 
-{% page-ref page="governance/" %}
+{% content-ref url="governance/" %}
+[governance](governance/)
+{% endcontent-ref %}
 
-{% page-ref page="api/" %}
+{% content-ref url="api/" %}
+[api](api/)
+{% endcontent-ref %}
 
-{% page-ref page="security/" %}
-
+{% content-ref url="security/" %}
+[security](security/)
+{% endcontent-ref %}
