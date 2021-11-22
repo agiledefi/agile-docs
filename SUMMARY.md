@@ -2,7 +2,6 @@
 
 * [Agile Finance Documentation](README.md)
 * [Getting Started](getting-started/README.md)
-  * [Guides](getting-started/guides.md)
   * [Networks](getting-started/networks.md)
   * [Protocol Math](getting-started/protocol-math/README.md)
     * [aToken and Underlying Decimals](getting-started/protocol-math/atoken-and-underlying-decimals.md)
