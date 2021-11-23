@@ -9,6 +9,7 @@
     * [Calculating Accrued Interest](getting-started/protocol-math/calculating-accrued-interest.md)
     * [Calculating the APY Using Rate Per Block](getting-started/protocol-math/calculating-the-apy-using-rate-per-block.md)
   * [Gas Costs](getting-started/gas-costs.md)
+  * [Presale Direct Deposit](getting-started/presale-direct-deposit.md)
 * [ATokens](atokens/README.md)
   * [Mint](atokens/mint.md)
   * [Redeem](atokens/redeem.md)
